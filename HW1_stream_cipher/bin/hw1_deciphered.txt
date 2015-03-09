@@ -1,0 +1,12 @@
+--ec--c---t--s---en--xe-ht------gq-a----a-o--------n--e-a-s-l--ef---o-o--et---b--ct
+---e-e----dm------l-s-n---nt---n-o-----e--e----e-ic----rau--r-------n-o-------t-nne
+--------e-h---s---u-sQe----qu--n-o----r---p------de--v--nu--i--eak--tm--ef---------
+----------t---s---d---dW--nau------n------o-i-----i---e-o------eg------r-i----t---e
+-------u-tw---s--eb---aW------i--rak---e--o-i-h--u----e-p---a---e-e-nm---a---------
+---r-e---tt--s----si-------t-----h---t----------r-i--v--e-s-e---t-e-a--r-r--a-o--c-
+---r-e---tt--s----si-------o-----y-----e--a-i-----sn---rG---r---n-e-om--------eo---
+--ec--c-------s---n-smh---nt--i--i----r---a---h---an----gu--tt------tm--------u---e
+-hmp----------zag-n--cp----------eas-----m-c-----et---irn---l-h-----c----et--------
+T--es-----s-e-----d--yt----r-sa-w-w-s-----n--p----t-e--rt--ea--eo-eyw----n-h-nro---
+
+The_secret_message_is:_When_using_a_stream_cipher,_never_use_the_key_more_than_once

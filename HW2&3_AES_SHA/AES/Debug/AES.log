@@ -1,0 +1,30 @@
+﻿Build started 2/3/2015 7:36:38 PM.
+     1>Project "C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\AES\AES.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Crypto.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\CryptoPP\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Vigenere.cpp
+         Vigenere.cpp
+     1>c:\users\yang\box sync\coursera\cryptography1\pj\hw2\aes\aes\vigenere.cpp(14): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\Debug\Crypto.exe" /INCREMENTAL /NOLOGO "C:\Program Files\CryptoPP\lib\debug\cryptlib.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Crypto.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\Debug\Crypto.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\Debug\Crypto.lib" /MACHINE:X86 Debug\Crypto.exe.embed.manifest.res
+         Debug\AES_CBC.obj
+         Debug\AES_CTR.obj
+         Debug\SHA256.obj
+         Debug\Vigenere.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Crypto.exe.embed.manifest" /manifest Debug\Crypto.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         AES.vcxproj -> C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\Debug\Crypto.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Crypto.unsuccessfulbuild".
+         Touching "Debug\Crypto.lastbuildstate".
+     1>Done Building Project "C:\Users\Yang\Box Sync\Coursera\Cryptography1\pj\hw2\AES\AES\AES.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
