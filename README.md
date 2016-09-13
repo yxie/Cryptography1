@@ -16,7 +16,7 @@ Use SHA256 to hash a large video files
 Experiment with a padding oracle attack against a toy web site hosted at crypto-class.appspot.com
 
 ## HW5 Math with larget numbers
-Comput discrete log modulo a prime 
+Compute discrete log modulo a prime 
 
 ## HW6 RSA
-Cracking RSA when the public modulus N is generated incorrectly
+Crack RSA when the public modulus N is generated incorrectly
