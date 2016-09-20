@@ -3,6 +3,9 @@ Programming assignments for online open course Cryptography1 by Stanford Univers
 
 Notice: These solutions are for reference only and should not be viewed by students currently enrolled in the course. If you read these solutions before completing the course, you will diminish the course's value for yourself and others.
 
+## Project description
+https://cryptocult.wordpress.com/cyber-challenges/stanford-cryptography-i-programs/
+
 ## HW1 Breaking a Many Time Pad
 Given 10 ciphertext that are encrypted using the same pad, decrypt the target ciphertext. XOR the ciphertexts together, and consider what happens when a space is XORed with a character in [a-zA-Z].
 
